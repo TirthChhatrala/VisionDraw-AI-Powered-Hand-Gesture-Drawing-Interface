@@ -17,12 +17,6 @@ Welcome to the **Hand Gesture Drawing App** — an intuitive, real-time, AI-powe
 
 ---
 
-## 📸 Demo Preview
-
-> _Coming Soon_: Add a short video or gif here showing the app in action.
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -84,7 +78,7 @@ Then just use your hand in front of the webcam!
 
 ## 🧑‍💻 Authors & Acknowledgments
 
-Built with ❤️ by [Tirth Chhatrala](https://github.com/your-username)
+Built with ❤️ by [Tirth Chhatrala](https://github.com/TirthChhatrala/VisionDraw-AI-Powered-Hand-Gesture-Drawing-Interface.git)
 Leveraging **MediaPipe**, **OpenCV**, and **Tkinter** magic.
 
 ---
@@ -96,5 +90,3 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ---
 
 > 🔔 *Tip: This app is a fantastic base for interactive art, sign language recognition, or virtual whiteboarding tools.*
-
-```
